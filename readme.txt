@@ -32,6 +32,8 @@ Wizualizacja danych z tabeli w postaci wykresów
 
 część DB
 lib https://github.com/sidorares/node-mysql2
+część JSON
+https://github.com/axios/axios#example
 
 
 
