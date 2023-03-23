@@ -29,3 +29,10 @@ Pobranie danych z serwera za pomocą url i wyświetalnie ich w tabeli.
 Wykożystuje bootstramp do wizualizacji danych
 4 część zadania (WEB https://www.chartjs.org/) 
 Wizualizacja danych z tabeli w postaci wykresów 
+
+część DB
+lib https://github.com/sidorares/node-mysql2
+
+
+
+
