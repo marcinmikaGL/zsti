@@ -35,6 +35,17 @@ lib https://github.com/sidorares/node-mysql2
 część JSON
 https://github.com/axios/axios#example
 
+zdalny1
+zdalny2
+zdalny3 
+h:EciePecie666!  
+
+logi do bazy: 
+zsti1
+zsti2
+zsti3
+hasło: EciePecie666!
+http://imiki.pl:81/
 
 
 
